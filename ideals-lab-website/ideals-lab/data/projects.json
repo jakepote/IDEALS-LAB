@@ -1,0 +1,46 @@
+[
+  {
+    "id": "proj-01",
+    "title": "AI Feedback & Revision Study",
+    "image": "/images/projects/placeholder-01.svg",
+    "description": "A longitudinal study tracking how AI-generated feedback shapes revision quality in first-year writing courses.",
+    "methods": ["Mixed methods", "Text analytics", "Interviews"],
+    "funding": "National Science Foundation (NSF)",
+    "status": "Active",
+    "researchAreas": ["ai-in-education", "qualitative-research"],
+    "link": ""
+  },
+  {
+    "id": "proj-02",
+    "title": "Early-Warning Indicators in Engineering Courses",
+    "image": "/images/projects/placeholder-02.svg",
+    "description": "Developing predictive models from LMS log data to flag first-year engineering students who may need extra support.",
+    "methods": ["Predictive modeling", "Learning analytics"],
+    "funding": "Texas A&M College of Engineering",
+    "status": "Active",
+    "researchAreas": ["learning-analytics", "engineering-education"],
+    "link": ""
+  },
+  {
+    "id": "proj-03",
+    "title": "Statewide Program Assessment Toolkit",
+    "image": "/images/projects/placeholder-03.svg",
+    "description": "Building a shared assessment toolkit that helps academic programs meet accreditation standards while improving instruction.",
+    "methods": ["Program evaluation", "Survey design"],
+    "funding": "Institute of Education Sciences (IES)",
+    "status": "Completed",
+    "researchAreas": ["program-assessment", "assessment"],
+    "link": ""
+  },
+  {
+    "id": "proj-04",
+    "title": "Curriculum Coherence in Online Graduate Programs",
+    "image": "/images/projects/placeholder-04.svg",
+    "description": "Examining how course sequencing and design choices affect learners' sense of coherence in fully online graduate programs.",
+    "methods": ["Case study", "Document analysis"],
+    "funding": "Texas A&M Division of Research",
+    "status": "Completed",
+    "researchAreas": ["curriculum-design", "qualitative-research"],
+    "link": ""
+  }
+]

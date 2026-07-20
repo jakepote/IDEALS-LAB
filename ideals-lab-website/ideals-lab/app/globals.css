@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-paper text-ink font-body antialiased;
+}
+
+::selection {
+  @apply bg-maroon/20 text-maroon;
+}
+
+/* Visible keyboard focus for accessibility */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid #2E86DE;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+.section {
+  @apply mx-auto max-w-6xl px-6 md:px-10;
+}
+
+.hairline {
+  @apply border-t border-maroon/15;
+}
+
+.eyebrow {
+  @apply font-mono text-xs uppercase tracking-[0.18em] text-maroon/70;
+}
+
+/* Respect reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

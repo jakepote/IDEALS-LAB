@@ -1,0 +1,29 @@
+{
+  "labName": "IDEALS Lab",
+  "labSubtitle": "Instructional Design, Evaluation, Assessment, and Learning Systems Laboratory",
+  "university": "Texas A&M University",
+  "department": "College of Education & Human Development",
+  "tagline": "We study how people learn, and we build better ways to teach.",
+  "missionShort": "IDEALS Lab designs, evaluates, and assesses learning systems so that instruction works for the people it is meant to serve.",
+  "email": "idealslab@tamu.edu",
+  "officeLocation": "Harrington Tower, Texas A&M University, College Station, TX 77843",
+  "mapEmbedUrl": "https://www.google.com/maps?q=Harrington+Tower+Texas+A%26M+University&output=embed",
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/ideals-learning-sciences-and-sotl-lab/",
+    "twitter": "",
+    "github": "",
+    "youtube": ""
+  },
+  "partners": [
+    { "name": "Texas A&M University", "logo": "/images/partners/tamu.svg" },
+    { "name": "College of Education & Human Development", "logo": "/images/partners/cehd.svg" },
+    { "name": "National Science Foundation", "logo": "/images/partners/nsf.svg" },
+    { "name": "Institute of Education Sciences", "logo": "/images/partners/ies.svg" }
+  ],
+  "stats": [
+    { "label": "Active Research Projects", "value": 12, "suffix": "+" },
+    { "label": "Peer-Reviewed Publications", "value": 48, "suffix": "+" },
+    { "label": "Lab Alumni", "value": 25, "suffix": "+" },
+    { "label": "Years of Research", "value": 8, "suffix": "" }
+  ]
+}

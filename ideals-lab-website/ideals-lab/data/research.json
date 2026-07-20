@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "learning-analytics",
+    "title": "Learning Analytics",
+    "summary": "Turning learner data into evidence that instructors and designers can actually act on.",
+    "description": "We build dashboards, models, and analysis pipelines that surface meaningful patterns in learner behavior, without losing sight of the humans behind the data. Our work spans log-file analysis, engagement modeling, and early-warning systems for student support.",
+    "icon": "LineChart",
+    "keywords": ["learner modeling", "dashboards", "predictive analytics", "engagement"]
+  },
+  {
+    "slug": "assessment",
+    "title": "Assessment",
+    "summary": "Designing measures that tell the truth about what learners know and can do.",
+    "description": "From formative classroom checks to large-scale program assessment, we design, validate, and refine instruments so that assessment results are fair, meaningful, and useful to the people who rely on them.",
+    "icon": "ClipboardCheck",
+    "keywords": ["validity", "psychometrics", "rubrics", "formative assessment"]
+  },
+  {
+    "slug": "curriculum-design",
+    "title": "Curriculum Design",
+    "summary": "Building learning experiences backward from the outcomes that matter.",
+    "description": "We apply evidence-based instructional design frameworks to build curricula that are coherent, engaging, and grounded in how people actually learn, across K-12, higher education, and workforce contexts.",
+    "icon": "BookOpen",
+    "keywords": ["instructional design", "backward design", "curriculum mapping"]
+  },
+  {
+    "slug": "qualitative-research",
+    "title": "Qualitative Research",
+    "summary": "Listening closely to the lived experience of learners and educators.",
+    "description": "Through interviews, ethnography, and document analysis, we surface the stories and structures that numbers alone can't capture, and use them to inform more humane instructional design.",
+    "icon": "MessageSquareText",
+    "keywords": ["interviews", "case study", "grounded theory", "ethnography"]
+  },
+  {
+    "slug": "mixed-methods",
+    "title": "Mixed Methods",
+    "summary": "Combining numbers and narratives for a fuller picture of learning.",
+    "description": "We design studies that integrate quantitative and qualitative evidence, using each to explain, extend, or challenge the other, in order to produce findings that are both rigorous and grounded in context.",
+    "icon": "GitMerge",
+    "keywords": ["triangulation", "sequential design", "convergent design"]
+  },
+  {
+    "slug": "educational-data-science",
+    "title": "Educational Data Science",
+    "summary": "Applying data science methods to open questions in learning research.",
+    "description": "We use statistical modeling, text mining, and computational methods to work with large, messy, real-world educational datasets, always in service of a research question, not the other way around.",
+    "icon": "Database",
+    "keywords": ["data mining", "statistical modeling", "text analytics"]
+  },
+  {
+    "slug": "ai-in-education",
+    "title": "AI in Education",
+    "summary": "Studying how AI tools are reshaping teaching, learning, and assessment.",
+    "description": "We research the design, evaluation, and ethical use of AI-enabled learning tools, including intelligent tutoring systems, generative AI in the classroom, and automated feedback systems.",
+    "icon": "Sparkles",
+    "keywords": ["generative AI", "intelligent tutoring", "AI ethics in education"]
+  },
+  {
+    "slug": "engineering-education",
+    "title": "Engineering Education",
+    "summary": "Improving how engineers are taught, trained, and retained.",
+    "description": "Working closely with engineering departments, we study curriculum, identity, and persistence to help build engineering programs that prepare students for real practice and keep them in the field.",
+    "icon": "Cpu",
+    "keywords": ["engineering identity", "retention", "design thinking"]
+  },
+  {
+    "slug": "program-assessment",
+    "title": "Program Assessment",
+    "summary": "Helping departments and programs show, and improve, their impact.",
+    "description": "We partner with academic programs to design assessment plans that satisfy accreditation requirements while genuinely informing continuous improvement, not just checking a box.",
+    "icon": "ClipboardList",
+    "keywords": ["accreditation", "continuous improvement", "program review"]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pub-2024-001",
+    "title": "Generative AI feedback and student revision behavior in first-year writing",
+    "authors": ["Researcher, J.", "Chen, A."],
+    "year": 2024,
+    "venue": "Journal of Learning Analytics",
+    "apaCitation": "Researcher, J., & Chen, A. (2024). Generative AI feedback and student revision behavior in first-year writing. Journal of Learning Analytics, 11(2), 45-67.",
+    "pdfUrl": "",
+    "tags": ["ai-in-education", "learning-analytics"]
+  },
+  {
+    "id": "pub-2023-002",
+    "title": "Coherence as a design principle in online graduate curricula",
+    "authors": ["Researcher, J.", "Ramirez, S."],
+    "year": 2023,
+    "venue": "Journal of Curriculum Studies",
+    "apaCitation": "Researcher, J., & Ramirez, S. (2023). Coherence as a design principle in online graduate curricula. Journal of Curriculum Studies, 55(4), 512-533.",
+    "pdfUrl": "",
+    "tags": ["curriculum-design"]
+  },
+  {
+    "id": "pub-2022-003",
+    "title": "A validity framework for competency-based engineering assessment",
+    "authors": ["Researcher, J."],
+    "year": 2022,
+    "venue": "Journal of Engineering Education",
+    "apaCitation": "Researcher, J. (2022). A validity framework for competency-based engineering assessment. Journal of Engineering Education, 111(1), 88-104.",
+    "pdfUrl": "",
+    "tags": ["assessment", "engineering-education"]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "news-01",
+    "title": "IDEALS Lab receives NSF grant for AI feedback research",
+    "date": "2026-03-14",
+    "category": "Award",
+    "excerpt": "The lab was awarded a three-year NSF grant to study generative AI feedback in first-year writing courses.",
+    "image": "/images/news/placeholder-01.svg",
+    "content": "The National Science Foundation has awarded IDEALS Lab a three-year grant to study how generative AI feedback tools affect student revision behavior. The project will follow over 400 students across six sections of first-year writing courses.",
+    "featured": true
+  },
+  {
+    "id": "news-02",
+    "title": "Alex Chen presents at AERA 2026",
+    "date": "2026-04-22",
+    "category": "Conference",
+    "excerpt": "PhD candidate Alex Chen presented early findings on AI feedback at the American Educational Research Association annual meeting.",
+    "image": "/images/news/placeholder-02.svg",
+    "content": "Alex Chen presented a paper titled 'Revision Patterns Under AI-Generated Feedback' at AERA 2026 in San Antonio, drawing interest from researchers across the learning analytics community.",
+    "featured": false
+  },
+  {
+    "id": "news-03",
+    "title": "New lab website launched",
+    "date": "2026-07-20",
+    "category": "Announcement",
+    "excerpt": "IDEALS Lab has launched a new website to share our research, projects, and team more openly.",
+    "image": "/images/news/placeholder-03.svg",
+    "content": "We're excited to launch our redesigned website, built to make it easier for prospective students, collaborators, and the public to explore our research areas, projects, and publications.",
+    "featured": false
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "director-01",
+    "name": "Dr. Jane A. Researcher",
+    "role": "Lab Director & Associate Professor",
+    "category": "faculty",
+    "photo": "/images/team/placeholder-faculty.svg",
+    "bio": "Dr. Researcher founded IDEALS Lab to bring rigorous evaluation methods to instructional design practice. Her work has been supported by NSF and IES.",
+    "interests": ["learning analytics", "program assessment", "mixed methods"],
+    "linkedin": "https://www.linkedin.com/",
+    "email": "jresearcher@tamu.edu",
+    "publicationIds": ["pub-2024-001", "pub-2023-002"]
+  },
+  {
+    "id": "phd-01",
+    "name": "Alex Chen",
+    "role": "PhD Candidate",
+    "category": "graduate",
+    "photo": "/images/team/placeholder-grad.svg",
+    "bio": "Alex studies how generative AI feedback tools shape student revision behavior in writing-intensive courses.",
+    "interests": ["AI in education", "writing assessment"],
+    "linkedin": "https://www.linkedin.com/",
+    "email": "achen@tamu.edu",
+    "publicationIds": ["pub-2024-001"]
+  },
+  {
+    "id": "ms-01",
+    "name": "Priya Nair",
+    "role": "M.S. Student",
+    "category": "graduate",
+    "photo": "/images/team/placeholder-grad.svg",
+    "bio": "Priya's thesis examines early-warning indicators in first-year engineering courses using log-file data.",
+    "interests": ["learning analytics", "engineering education"],
+    "linkedin": "https://www.linkedin.com/",
+    "email": "pnair@tamu.edu",
+    "publicationIds": []
+  },
+  {
+    "id": "ug-01",
+    "name": "Marcus Lee",
+    "role": "Undergraduate Research Assistant",
+    "category": "undergraduate",
+    "photo": "/images/team/placeholder-undergrad.svg",
+    "bio": "Marcus assists with survey instrument validation and helps maintain the lab's data pipelines.",
+    "interests": ["assessment", "data science"],
+    "linkedin": "https://www.linkedin.com/",
+    "email": "mlee@tamu.edu",
+    "publicationIds": []
+  },
+  {
+    "id": "alum-01",
+    "name": "Dr. Sofia Ramirez",
+    "role": "Lab Alumna",
+    "category": "alumni",
+    "photo": "/images/team/placeholder-alum.svg",
+    "bio": "Sofia completed her PhD studying curriculum coherence in online graduate programs.",
+    "interests": ["curriculum design", "online learning"],
+    "linkedin": "https://www.linkedin.com/",
+    "email": "",
+    "publicationIds": ["pub-2023-002"],
+    "gradYear": 2022,
+    "gradDegree": "Ph.D. in Curriculum & Instruction",
+    "currentEmployer": "Assistant Professor, University of Michigan"
+  }
+]
